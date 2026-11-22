@@ -19,7 +19,7 @@ struct _Endereco
 #define TAMANHO_CEP 8
 #define ORDEM_ARVORE 100
 
-int main(void)
+int main()
 {
     FILE *arquivo;
     Endereco endereco;
